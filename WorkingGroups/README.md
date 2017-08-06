@@ -1,4 +1,12 @@
+About
+-----
+
 Working Groups are a lightweight structure for organizing groups of volunteers around projects or tasks. The Zcash Foundation is adopting a "Working Group Recognition" policy to foster and support such groups. Working groups recognized by the Foundation will be included in our website and will be included in periodic public updates about the Foundation's progress.
+
+Existing Working Groups
+-----------------------
+
+You can find [active](./active/) and [proposed](./proposed/) working groups in subdirectories of this README.md file.
 
 Minimum Requirements for a Working Group
 ----------------------------------------
